@@ -1,3 +1,5 @@
-#+TITLE: Index
+Hello, welcome to the only site dedicated to educating the public to embrace the Tama!
 
-This is the home page of te.
+#+TITLE: Mission Statement
+
+We here at thelovers think that it's time that _everyone_ put aside their silliness and joined together!
