@@ -4,6 +4,8 @@ Your humble author likes the beach.
 
 And it's nice!
 
+Drive to first stop sign and turn left.
+
 #+BEGIN_QUOTE
 You can't out-train a bad essay.
 
