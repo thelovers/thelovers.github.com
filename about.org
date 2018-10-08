@@ -8,6 +8,13 @@ You can't out-train a bad essay.
 #+END_QUOTE
 
 
+Barbra W. Tuchman's /A Distant Mirror: The Calamitous 14th Century/:
+#+BEGIN_QUOTE
+Together the frescoes marked the start of a pervasive presence of Death in art, not yet the cult it was to become by the end of the century, but its beginning. ␤ Usually Death was personified as a skeleton with hourglass and scythe, in a white shroud or bare-bonred, grinning at the irony of man's fate reflected in his image: that all men, from beggar to emperor, from harlot to queen, from ragged clerk to Pope, must come to this. No matter what their poverty or power in life, all is vanity, equalized by death. The temporal is nothing; what matters is the after-life of the soul.
+#+END_QUOTE
+
+
+
 * The methods are too severe! Arr
 
 +Twpnot be avoided+ 
